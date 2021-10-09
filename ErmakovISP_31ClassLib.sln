@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErmakovISP_31ClassLib", "ErmakovISP_31ClassLib\ErmakovISP_31ClassLib.csproj", "{84AD6191-72A6-465D-8F33-F22048052076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErmakovISP_31ClassLibTests", "ErmakovISP_31ClassLibTests\ErmakovISP_31ClassLibTests.csproj", "{018A2B3C-A306-47C7-957F-278E3666BB2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AD6191-72A6-465D-8F33-F22048052076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AD6191-72A6-465D-8F33-F22048052076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AD6191-72A6-465D-8F33-F22048052076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AD6191-72A6-465D-8F33-F22048052076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018A2B3C-A306-47C7-957F-278E3666BB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018A2B3C-A306-47C7-957F-278E3666BB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018A2B3C-A306-47C7-957F-278E3666BB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018A2B3C-A306-47C7-957F-278E3666BB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C6A2A28-0333-420B-BF53-A5CD30B90334}
+	EndGlobalSection
+EndGlobal
